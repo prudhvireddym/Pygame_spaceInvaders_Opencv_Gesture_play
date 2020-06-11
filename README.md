@@ -1,5 +1,7 @@
 # Pygame_spaceInvaders_Opencv_Gesture_play
 
 
-![](Demo/SPaceinvaders_Opencv Gestures Final project.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 
